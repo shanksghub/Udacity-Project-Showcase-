@@ -108,6 +108,9 @@ optional arguments:
 The client library
 This sample uses the Google Cloud Client Library for Python. You can read the documentation for more details on API usage and use GitHub to browse the source and report issues.
 
-
-
+References :
+https://cloud.google.com/text-to-speech/docs/create-audio#text-to-speech-text-python
+https://cloud.google.com/text-to-speech/docs/quickstart-protocol
 https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/texttospeech/cloud-client
+
+https://docs.openvinotoolkit.org/2019_R1/_text_recognition_0012_description_text_recognition_0012.html
